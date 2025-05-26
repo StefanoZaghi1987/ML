@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IrisFlowerClustering", "IrisFlowerClustering\IrisFlowerClustering.csproj", "{EA40BD91-1BA7-4809-98CE-A56419B63CC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA40BD91-1BA7-4809-98CE-A56419B63CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA40BD91-1BA7-4809-98CE-A56419B63CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA40BD91-1BA7-4809-98CE-A56419B63CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA40BD91-1BA7-4809-98CE-A56419B63CC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7BE07D2-C05C-4484-8CEB-3C4B03969B44}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://stefanozaghi1987.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = IrisFlowerClustering\\IrisFlowerClustering.csproj
+		SccProjectName1 = IrisFlowerClustering
+		SccLocalPath1 = IrisFlowerClustering
+	EndGlobalSection
+EndGlobal
