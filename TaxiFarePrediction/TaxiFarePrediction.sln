@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxiFarePrediction", "TaxiFarePrediction\TaxiFarePrediction.csproj", "{EDF76967-5247-4FF5-B5CD-F2F6E2EDBB45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDF76967-5247-4FF5-B5CD-F2F6E2EDBB45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF76967-5247-4FF5-B5CD-F2F6E2EDBB45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF76967-5247-4FF5-B5CD-F2F6E2EDBB45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF76967-5247-4FF5-B5CD-F2F6E2EDBB45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1E96771-36C1-4C74-8699-F8803EB2919F}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://stefanozaghi1987.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TaxiFarePrediction\\TaxiFarePrediction.csproj
+		SccProjectName1 = TaxiFarePrediction
+		SccLocalPath1 = TaxiFarePrediction
+	EndGlobalSection
+EndGlobal

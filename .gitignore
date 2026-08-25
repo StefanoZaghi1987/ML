@@ -1,0 +1,21 @@
+# .NET build output
+[Bb]in/
+[Oo]bj/
+
+# Python
+.venv/
+__pycache__/
+
+# Images downloaded by the Is-it-a-bird notebook
+bird_or_not/
+
+# Trained model exports — regenerate by running the apps/notebooks
+*.pkl
+model.zip
+IrisClusteringModel.zip
+IrisMulticlassModel.zip
+
+# Large datasets — download sources are listed in the README
+GitHubIssueClassification/GitHubIssueClassification/Data/issues_*.tsv
+TaxiFarePrediction/TaxiFarePrediction/Data/taxi-fare-*.csv
+MovieRecommender/MovieRecommender/Data/recommendation-ratings-*.csv

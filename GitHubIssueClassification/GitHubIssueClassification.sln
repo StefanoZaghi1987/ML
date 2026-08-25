@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubIssueClassification", "GitHubIssueClassification\GitHubIssueClassification.csproj", "{670FD81C-1115-4497-AAC6-DC587AF9419B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{670FD81C-1115-4497-AAC6-DC587AF9419B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{670FD81C-1115-4497-AAC6-DC587AF9419B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{670FD81C-1115-4497-AAC6-DC587AF9419B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{670FD81C-1115-4497-AAC6-DC587AF9419B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E198C01-A52D-4313-AF51-655AA4D0956D}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://stefanozaghi1987.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = GitHubIssueClassification\\GitHubIssueClassification.csproj
+		SccProjectName1 = GitHubIssueClassification
+		SccLocalPath1 = GitHubIssueClassification
+	EndGlobalSection
+EndGlobal
